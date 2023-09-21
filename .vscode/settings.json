@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "FIBONACCI.C": "cpp"
+        "FIBONACCI.C": "cpp",
+        "ADD.C": "cpp"
     }
 }
