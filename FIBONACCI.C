@@ -19,6 +19,6 @@ int main()
             printf("%4d", c);
             a=b;
             b=c;
-        }
+        } 
     }
 }
