@@ -1,4 +1,5 @@
 #include <stdio.h>
+//daimond
 int main()
 {
     int b, n, i, k, j;
